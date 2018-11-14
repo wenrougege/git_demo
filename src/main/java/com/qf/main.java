@@ -6,4 +6,13 @@ package com.qf;
  * @Version ${1.0}
  */
 public class main {
+
+    /**
+     *
+     * @param args
+     */
+    public static void main(String[] args) {
+        System.out.println("asdf");
+    }
+
 }
